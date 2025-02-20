@@ -46,6 +46,7 @@ const data = {
             techStack: "Python, Tkinter",
             title: "Générateur de mots de passe sécurisé",
             githubLink: "https://github.com/RacimZz/random_password",
+            projectLink: "https://www.mathweb.fr/euclide/2020/12/12/generateur-de-mots-de-passe-en-python/",
             imgLink: "images/portfolio/password_generator.png"
         }
     ], 

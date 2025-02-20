@@ -43,10 +43,10 @@ const data = {
             imgLink: "images/portfolio/101.png"
         },
         {
-            "techStack": "Python, Tkinter",
-            "title": "Générateur de mots de passe sécurisé",
-            "githubLink": "https://github.com/RacimZz/random_password",
-            "imgLink": "images/portfolio/password_generator.png"
+            techStack: "Python, Tkinter",
+            title: "Générateur de mots de passe sécurisé",
+            githubLink: "https://github.com/RacimZz/random_password",
+            imgLink: "images/portfolio/password_generator.png"
         }
     ], 
     

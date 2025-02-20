@@ -41,6 +41,12 @@ const data = {
             githubLink: "https://github.com/RacimZz/Hanoie_tower",
             projectLink: "https://drive.google.com/file/d/1QGO5sBPu-g3IbTLPohbZWFjj2jbrtRJ7/view?usp=drive_link",
             imgLink: "images/portfolio/101.png"
+        },
+        {
+            "techStack": "Python, Tkinter",
+            "title": "Générateur de mots de passe sécurisé",
+            "githubLink": "https://github.com/RacimZz/random_password",
+            "imgLink": "images/portfolio/password_generator.png"
         }
     ], 
     

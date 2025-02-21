@@ -48,7 +48,15 @@ const data = {
             githubLink: "https://github.com/RacimZz/random_password",
             projectLink: "https://www.mathweb.fr/euclide/2020/12/12/generateur-de-mots-de-passe-en-python/",
             imgLink: "images/portfolio/password_generator.png"
+        },
+        {
+            "techStack": "Python, OpenCV, Tesseract, scikit-learn, TensorFlow",
+            "title": "Détection de Fraude Documentaire",
+            "githubLink": "https://github.com/RacimZz/Detection_de_fraude",
+            "projectLink": "https://archives.univ-biskra.dz/bitstream/123456789/21341/1/DJEFFAL_AMANI.pdf?utm_source=chatgpt.com",
+            "imgLink": "images/portfolio/FraudVSoriginal.png"
         }
+
     ], 
     
 };

@@ -53,7 +53,7 @@ const data = {
             "techStack": "Python, OpenCV, Tesseract, scikit-learn, TensorFlow",
             "title": "Détection de Fraude Documentaire",
             "githubLink": "https://github.com/RacimZz/Detection_de_fraude",
-            "projectLink": "https://archives.univ-biskra.dz/bitstream/123456789/21341/1/DJEFFAL_AMANI.pdf?utm_source=chatgpt.com",
+            "projectLink": "https://sites.google.com/view/aide-python/applications/traitements-et-analyses-dimages",
             "imgLink": "images/portfolio/FraudVSoriginal.png"
         }
 

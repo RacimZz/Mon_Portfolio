@@ -54,7 +54,7 @@ const data = {
             "title": "Détection de Fraude Documentaire",
             "githubLink": "https://github.com/RacimZz/Detection_de_fraude",
             "projectLink": "https://sites.google.com/view/aide-python/applications/traitements-et-analyses-dimages",
-            "imgLink": "images/portfolio/FraudVSoriginal.png"
+            "imgLink": "images/portfolio/FraudVSoriginal.jpg"
         }
 
     ], 

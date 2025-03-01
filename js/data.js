@@ -55,6 +55,13 @@ const data = {
             "githubLink": "https://github.com/RacimZz/Detection_de_fraude",
             "projectLink": "https://sites.google.com/view/aide-python/applications/traitements-et-analyses-dimages",
             "imgLink": "images/portfolio/FraudVSoriginal.jpg"
+        },
+        {
+            "techStack": "Python, OpenCV, Tesseract, scikit-learn, TensorFlow",
+            "title": "ChatBot",
+            "githubLink": "https://github.com/RacimZz/Detection_de_fraude",
+            "projectLink": "https://sites.google.com/view/aide-python/applications/traitements-et-analyses-dimages",
+            "imgLink": "images/portfolio/FraudVSoriginal.jpg"
         }
 
     ], 

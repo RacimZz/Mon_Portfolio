@@ -61,7 +61,7 @@ const data = {
             "title": "ChatBot",
             "githubLink": "https://github.com/RacimZz/Chatbot",
             "projectLink": "https://ai.google.dev/gemini-api/docs/models/gemini?hl=fr#gemini-1.5-flash",
-            "imgLink": "images/portfolio/Chatbot.jpg"
+            "imgLink": "images/portfolio/Chatbot.png"
         }
     ], 
     

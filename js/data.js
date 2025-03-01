@@ -57,13 +57,12 @@ const data = {
             "imgLink": "images/portfolio/FraudVSoriginal.jpg"
         },
         {
-            "techStack": "Python, OpenCV, Tesseract, scikit-learn, TensorFlow",
+            "techStack": "Python, Flask, Google Gemini API, OpenAI Transformers, dotenv",
             "title": "ChatBot",
-            "githubLink": "https://github.com/RacimZz/Detection_de_fraude",
-            "projectLink": "https://sites.google.com/view/aide-python/applications/traitements-et-analyses-dimages",
-            "imgLink": "images/portfolio/FraudVSoriginal.jpg"
+            "githubLink": "https://github.com/RacimZz/Chatbot",
+            "projectLink": "https://ai.google.dev/gemini-api/docs/models/gemini?hl=fr#gemini-1.5-flash",
+            "imgLink": "images/portfolio/Chatbot.jpg"
         }
-
     ], 
     
 };

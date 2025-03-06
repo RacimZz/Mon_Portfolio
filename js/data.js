@@ -62,6 +62,13 @@ const data = {
             "githubLink": "https://github.com/RacimZz/Chatbot",
             "projectLink": "https://ai.google.dev/gemini-api/docs/models/gemini?hl=fr#gemini-1.5-flash",
             "imgLink": "images/portfolio/Chatbot.png"
+        },
+        {
+            "techStack": "Python, Gradio, Wikipedia API, Google Gemini API, dotenv",
+            "title": "AI-Powered Celebrity Guesser",
+            "githubLink": "https://github.com/RacimZz/Akinator_IA",
+            "projectLink": "https://ai.google.dev/gemini-api/docs/models/gemini?hl=fr#gemini-1.5-flash",
+            "imgLink": "images/portfolio/Akinator.png"
         }
     ], 
     

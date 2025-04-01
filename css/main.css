@@ -581,7 +581,7 @@ form,
   transform-origin: 50%;
   perspective-origin: 50% 50%;
   background-size: 10em 10em;
-  background-image: url(/../images/preloader.svg);
+  background-image: url(/../images/portfolio/preloader.svg);
   width: 10em;
   height: 10em;
   margin-top: -5em;

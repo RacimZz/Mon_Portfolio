@@ -153,11 +153,19 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/parallax.js/1.5.0/parallax.min.js"></script>
 
 <script>
-    AOS.init(); // Initialisation d'AOS après son chargement
+    document.addEventListener("DOMContentLoaded", function () {
+        AOS.init({
+            duration: 1000,
+            easing: "ease-in-out",
+            once: false,
+            mirror: false
+        });
+    });
 </script>
 
 <script src="js/data.js"></script>
 <script src="js/main.js"></script>
+
 
 </body>
 </html>

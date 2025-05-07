@@ -70,6 +70,13 @@ const data = {
             "projectLink": "https://ai.google.dev/gemini-api/docs/models/gemini?hl=fr#gemini-1.5-flash",
             "imgLink": "images/portfolio/Akinator.png"
         },
+        {
+            "techStack": "OCaml, C, Python, Pygame, DIMACS CNF",
+            "title": "Tetravex-SAT Solver",
+            "githubLink": "https://github.com/RacimZz/CNF_SAT",
+            "projectLink": "https://drive.google.com/file/d/1N2bNN1DUwovy0mzkWGgq-F2EeJnlyB3I/view?usp=drive_link",
+            "imgLink": "images/portfolio/tetravex.png"
+        }
 
     ], 
     

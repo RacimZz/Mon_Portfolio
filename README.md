@@ -12,7 +12,7 @@ Je suis **Racim ZENATI**, étudiant en 2ème année informatique et MIAGE à l'U
 
 ## 🔗 Accès
 
-Découvrez mon portfolio en ligne ici : [Mon Portfeuille](https://racimzz.github.io/Mon_Portfolio/)
+Découvrez mon portfolio en ligne ici : [Mon Portfolio](https://racimzz.github.io/Mon_Portfolio/)
 
 ## 📫 Me contacter
 

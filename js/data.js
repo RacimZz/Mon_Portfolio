@@ -78,7 +78,7 @@ const data = {
             "imgLink": "images/portfolio/tetravex.png"
         },
         {
-            "techStack": "C, Assembleur (ARM), Analyse Syntaxique, AST, Makefile",
+            "techStack": "C, Assembleur (ARM), AST, Makefile",
             "title": "Interpréteur ARM avec Affichage Structuré",
             "githubLink": "https://github.com/RacimZz/ARM_Interpreter",
             "projectLink": "https://developer.arm.com/documentation/101458/2404/Get-started/Arm-C-C---Compiler",

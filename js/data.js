@@ -76,6 +76,13 @@ const data = {
             "githubLink": "https://github.com/RacimZz/CNF_SAT",
             "projectLink": "https://drive.google.com/file/d/1N2bNN1DUwovy0mzkWGgq-F2EeJnlyB3I/view?usp=drive_link",
             "imgLink": "images/portfolio/tetravex.png"
+        },
+        {
+            "techStack": "C, Assembleur (ARM), Analyse Syntaxique, AST, Makefile",
+            "title": "Interpréteur ARM avec Affichage Structuré",
+            "githubLink": "https://github.com/RacimZz/ARM_Interpreter",
+            "projectLink": "https://developer.arm.com/documentation/101458/2404/Get-started/Arm-C-C---Compiler",
+            "imgLink": "images/portfolio/ARM.png"
         }
 
     ], 

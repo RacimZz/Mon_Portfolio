@@ -36,7 +36,7 @@ const data = {
             imgLink: "images/portfolio/201.png"
         },
         {
-            techStack: "Python",
+            techStack: "Python (turtle, Tkinter)",
             title: "Tours de Hanoie",
             githubLink: "https://github.com/RacimZz/Hanoie_tower",
             projectLink: "https://drive.google.com/file/d/1QGO5sBPu-g3IbTLPohbZWFjj2jbrtRJ7/view?usp=drive_link",

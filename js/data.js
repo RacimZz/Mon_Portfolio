@@ -9,7 +9,7 @@ const data = {
         },
         {
             techStack: " Jupyter Notebook, ipykernel, Scikit-learn (SVM, KNN, Random Forest, etc)",
-            title: "Apprentissage machine",
+            title: "Machine & deep learning",
             githubLink: "https://github.com/RacimZz/Intro_machine_learning",
             projectLink: "https://drive.google.com/file/d/1BzEEETDONCQAZnf-xHs4wJ5SiW6OYwbE/view?usp=drive_link",
             imgLink: "images/portfolio/103.png"
@@ -79,10 +79,17 @@ const data = {
         },
         {
             "techStack": "C, Assembleur (ARM), AST, Makefile",
-            "title": "Interpréteur ARM avec Affichage Structuré",
+            "title": "Interpréteur ARM",
             "githubLink": "https://github.com/RacimZz/ARM_Interpreter",
             "projectLink": "https://developer.arm.com/documentation/101458/2404/Get-started/Arm-C-C---Compiler",
             "imgLink": "images/portfolio/ARM.png"
+        },
+        {
+            "techStack": "R, FisherEM, bash, clusters de calculs",
+            "title": "Classification spectrale non supervisée",
+            "githubLink": "https://github.com/RacimZz/FisherEM_ML",
+            "projectLink": "https://ui.adsabs.harvard.edu/abs/2021A%26A...649A..53F/abstract",
+            "imgLink": "images/portfolio/FisherEM.png"
         }
 
     ], 

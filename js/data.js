@@ -89,7 +89,7 @@ const data = {
             "title": "Classification spectrale non supervisée",
             "githubLink": "https://github.com/RacimZz/FisherEM_ML",
             "projectLink": "https://ui.adsabs.harvard.edu/abs/2021A%26A...649A..53F/abstract",
-            "imgLink": "images/portfolio/FisherEM.png"
+            "imgLink": "images/portfolio/fisher.jpg"
         }
 
     ], 

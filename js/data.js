@@ -96,7 +96,7 @@ const data = {
             "title": "GEMINI : une approche neuronale pour le clustering de spectres – Analyse et visualisations",
             "githubLink": "https://github.com/RacimZz/Gemclus_DeepLearning",
             "projectLink": "https://drive.google.com/file/d/1MmdLHnPcUQzCMysXC_RngB3rsTBKuE_D/view?usp=drive_link",
-            "imgLink": "images/portfolio/GEMINI (2).jpg"
+            "imgLink": "images/portfolio/GEMCLUS.jpg
         }
 
     ], 

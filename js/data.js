@@ -88,8 +88,15 @@ const data = {
             "techStack": "R, FisherEM, bash, clusters de calculs",
             "title": "Classification spectrale non supervisée",
             "githubLink": "https://github.com/RacimZz/FisherEM_ML",
-            "projectLink": "https://ui.adsabs.harvard.edu/abs/2021A%26A...649A..53F/abstract",
+            "projectLink": "https://drive.google.com/file/d/1MmdLHnPcUQzCMysXC_RngB3rsTBKuE_D/view?usp=drive_link",
             "imgLink": "images/portfolio/fisher.jpg"
+        },
+        {
+            "techStack": "Python (Gemclus Package), bash, Json, clusters de calculs",
+            "title": "GEMINI : une approche neuronale pour le clustering de spectres – Analyse et visualisations",
+            "githubLink": "https://github.com/RacimZz/Gemclus_DeepLearning",
+            "projectLink": "https://drive.google.com/file/d/1MmdLHnPcUQzCMysXC_RngB3rsTBKuE_D/view?usp=drive_link",
+            "imgLink": "images/portfolio/GEMINI.png"
         }
 
     ], 

@@ -9,7 +9,7 @@ const data = {
         },
         {
             techStack: " Jupyter Notebook, ipykernel, Scikit-learn (SVM, KNN, Random Forest, etc)",
-            title: "Machine & deep learning",
+            title: "Traitement d’images avec Python",
             githubLink: "https://github.com/RacimZz/Intro_machine_learning",
             projectLink: "https://drive.google.com/file/d/1BzEEETDONCQAZnf-xHs4wJ5SiW6OYwbE/view?usp=drive_link",
             imgLink: "images/portfolio/103.png"

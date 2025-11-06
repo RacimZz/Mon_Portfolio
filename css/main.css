@@ -2572,3 +2572,19 @@ html.no-csstransitions .hero-content {
   }
 }
 
+body.menu-is-open {
+  overflow: hidden;
+}
+
+.menu-is-open .header-menu-toggle span {
+  background-color: transparent;
+}
+.menu-is-open .header-menu-toggle span::before {
+  transform: rotate(45deg);
+  top: 0;
+}
+.menu-is-open .header-menu-toggle span::after {
+  transform: rotate(-45deg);
+  bottom: 0;
+}
+

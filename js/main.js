@@ -113,7 +113,7 @@
             easing: 'ease-in-out',
             delay: 300,
             once: true,
-            disable: 'mobile'
+            disable: false
         });
 
     };

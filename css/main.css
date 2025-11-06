@@ -2588,14 +2588,14 @@ body.menu-is-open {
   bottom: 0;
 }
 
-/* Applique à toutes les images et vidéos */
+
 img,
 video,
 iframe {
-  width: 100%;         /* prend toute la largeur du conteneur parent */
-  height: auto;        /* garde le bon ratio hauteur/largeur */
-  display: block;      /* évite les espaces indésirables autour */
-  object-fit: cover;   /* recadre joliment si nécessaire (utile pour les bannières) */
+  width: 100%;         
+  height: auto;        
+  display: block;      
+  object-fit: cover;   
 }
 
 

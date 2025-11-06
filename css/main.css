@@ -2599,3 +2599,16 @@ iframe {
 }
 
 
+@media (max-width: 900px) {
+  .header-content .btn {
+    position: absolute;
+    top: 1.6rem;
+    right: 5.2rem; 
+    transform: translate3d(0, 0, 0);
+    opacity: 1;
+    visibility: visible;
+    margin-top: 0;
+    display: inline-block;
+    z-index: 101;
+  }
+}

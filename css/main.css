@@ -2627,7 +2627,7 @@ iframe {
 /* --- Descendre le logo sur mobile --- */
 @media (max-width: 900px) {
     .s-header .header-logo {
-        top: 2.8rem !important;  
+        top: 3.4rem !important;  
     }
 }
 

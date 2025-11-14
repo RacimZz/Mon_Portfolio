@@ -2623,3 +2623,17 @@ iframe {
     position: fixed;       
   }
 }
+
+/* --- Ajustement logo mobile  --- */
+@media (max-width: 900px) {
+    .header-logo {
+        margin-top: 1.5rem;   
+    }
+}
+
+@media (max-width: 600px) {
+    .header-logo {
+        margin-top: 2.2rem;   /* plus d’espace sur très petit écran */
+    }
+}
+

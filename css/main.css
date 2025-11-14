@@ -2627,7 +2627,7 @@ iframe {
 /* --- Ajustement logo mobile  --- */
 @media (max-width: 900px) {
     .header-logo {
-        margin-top: 1.5rem;   
+        margin-top: 3rem;   
     }
 }
 

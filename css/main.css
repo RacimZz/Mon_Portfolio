@@ -2631,3 +2631,21 @@ iframe {
     }
 }
 
+/* --- Mobile : bouton MON CV toujours visible --- */
+@media (max-width: 900px) {
+  .s-header .header-content .btn {
+    position: fixed !important;
+    bottom: 1.6rem;
+    right: 1.6rem;
+    transform: none !important;
+
+    opacity: 1 !important;
+    visibility: visible !important;
+    display: inline-flex !important;
+    align-items: center;
+    justify-content: center;
+
+    margin: 0;
+    z-index: 999; /* au-dessus du menu noir et du contenu */
+  }
+}

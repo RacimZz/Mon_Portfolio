@@ -97,8 +97,14 @@ const data = {
             "githubLink": "https://github.com/RacimZz/Gemclus_DeepLearning",
             "projectLink": "https://drive.google.com/file/d/1MmdLHnPcUQzCMysXC_RngB3rsTBKuE_D/view?usp=drive_link",
             "imgLink": "images/portfolio/GEMCLUS.jpg"
+        },
+        {
+            "techStack": "Python, Théorie des Langages, Analyse LL(1), Grammaire Attribuée, Panic-Mode Error Recovery",
+            "title": "Calculatrice en syntaxe infixe – Parser LL(1) avec grammaire attribuée et rattrapage d’erreurs",
+            "githubLink": "https://github.com/RacimZz/TL",
+            "projectLink": "https://drive.google.com/file/d/1YtKbj1qFuOmU0uowhAGUkYCdAtuvUzwj/view?usp=drive_link",
+            "imgLink": "images/portfolio/parsing2.png"
         }
-
     ], 
     
 };

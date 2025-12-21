@@ -104,7 +104,15 @@ const data = {
             "githubLink": "https://github.com/RacimZz/TL",
             "projectLink": "https://drive.google.com/file/d/1YtKbj1qFuOmU0uowhAGUkYCdAtuvUzwj/view?usp=drive_link",
             "imgLink": "images/portfolio/parsing2.png"
+        },
+        {
+          "techStack": "Python, LaTeX (Beamer), Chaînes de Markov, Automates cellulaires probabilistes, Simulations Monte-Carlo",
+          "title": "Automate probabiliste de l’électeur (analyse Markovienne + simulations 1D/2D)",
+          "githubLink": "https://github.com/RacimZz/probabilistic-voter-model",
+          "projectLink": "https://github.com/RacimZz/probabilistic-voter-model/blob/main/sujet-automate.pdf",
+          "imgLink": "images/portfolio/markov.svg.png"
         }
+
     ], 
     
 };
